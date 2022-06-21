@@ -13,5 +13,5 @@ The raising and lowering operators are created and their effect on the quarks is
 In this project the movement of a wave packet in a harmonic oscillator potential is studied.  
 The probability density function is plotted for many different frames and the animated result of the wave packet's movement is saved in the folder. 
 
-## Presentation
-In this folder you will find a short PowerPoint presentation about the two projects. 
+## Presentations
+In this folder you will find short PowerPoint presentations about the two projects. 
